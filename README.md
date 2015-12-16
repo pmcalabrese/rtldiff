@@ -26,6 +26,10 @@ for example
 
 In case of LESS file you can use it in the following way:
 
+` node rtldiff.js --less [DEPENDENCIES] < [YOUT_LESS_FILE] ` 
+
+for example
+
 ` node rtldiff.js --less testfiles/ < testfiles/mylesstest.less ` 
 
 as for the CSS usage, this will output a file called *` rtl.std.css `* which will contain all the rtl CSS
