@@ -1,0 +1,45 @@
+div.class-margin-left {
+	margin-left:10px;}
+div.class-margin-right {
+	margin-right:10px;}
+div.class-padding-left {
+	padding-left:10px;}
+div.class-padding-right {
+	padding-right:10px;}
+div.class-float-left {
+	float: left;}
+div.class-float-right {
+	float: right;}
+div.class-margin {
+	margin: -1px 5px 0px 0px;}
+div.class-padding {
+	padding: -2px 0px 12px 1px;}
+div.class-right-0 {
+	right: 0;}
+div.class-left-0 {
+	left: 0;}
+div.class-right {
+	right: 20px;}
+div.class-left {
+	left: 20px;}
+div.class-border-left {
+	border-left: 1px solid #D5D5D5;}
+div.class-border-right {
+	border-right: 1px solid #D5D5D5;}
+div.class-text-left {
+	text-align: left;}
+div.class-text-right {
+	text-align: right;}
+	
+div.class-empty {	
+}
+
+/* those rules be ignored by the tool*/
+div.class-text-center {
+	text-align: center;}
+div.class-padding-double {
+	padding-left:10px;
+	padding-right:10px;}
+div.class-margin-double {
+	margin-left:10px;
+	margin-right:10px;}

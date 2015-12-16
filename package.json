@@ -1,0 +1,21 @@
+{
+  "name": "rtldiff",
+  "version": "1.0.0",
+  "description": "Tool for automatically find the CSS rules to add to a CSS file to make RTL compatible",
+  "main": "rtldiff.js",
+  "dependencies": {
+    "css": "^2.2.*",
+    "css-flip": "^0.*",
+    "deep-diff": "^0.3.*",
+    "less": "^2.5.*",
+    "lodash": "^3.*",
+    "node-sass": "^3.3.*",
+    "promise": "^7.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
